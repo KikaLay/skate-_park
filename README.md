@@ -18,8 +18,8 @@ Indicaciones
 
 Consola
 
-npm init
-npm i express 
-npm i handlebars 
-npm i express-fileupload 
-npm i pg npm i jsonwebtoken
+- npm init
+- npm i express 
+- npm i handlebars 
+- npm i express-fileupload 
+- npm i pg npm i jsonwebtoken
