@@ -1,12 +1,12 @@
-# Prueba: Skate Park
+# Prueba Skate Park
 
 Materia aplicada
 
-Express
-Handlebars
-PostgreSQL
-JWT
-Express-fileupload
+- Express
+- Handlebars
+- PostgreSQL
+- JWT
+- Express-fileupload
 
 Indicaciones
 
