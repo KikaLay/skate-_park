@@ -15,6 +15,7 @@ Indicaciones
 - Los participantes  modificar sus datos, exceptuando el correo electrónico y foto.
 - La vista principal muestra todos los participantes registrados y su estado de revisión.
 - La vista del administrador muestra los participantes registrados y permite aprobarlos para cambiar su estado.
+- Ir a la direccion http://localhost:3000, para que ejecute la pagina web.
 
 Consola
 
